@@ -1,0 +1,5 @@
+GET /clients: Retrieves all clients.
+GET /clients/:id: Retrieves a client by its ID.
+POST /clients: Creates a new client.
+PUT /clients/:id: Updates an existing client by its ID.
+DELETE /clients/:id: Deletes a client by its ID.
